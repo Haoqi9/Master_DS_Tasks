@@ -7,7 +7,7 @@
 Este repositorio sirve como ubicación central para almacenar mis tareas relacionadas de los módulos enseñados en el programa de **Máster en Data Science, Big Data & Business Analytics en la UCM**.
 Cada asignatura tiene su propia carpeta que contiene las tareas, enunciados de dichas tareas y los datos.
 
-## Módulos
+## Resumen de las tareas de cada módulo:
 
 - `01.mySQL`: Creación de modelo conceptual entidad-relación, y **consultas de base de datos con mySQL**.
   
