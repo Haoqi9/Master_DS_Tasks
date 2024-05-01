@@ -27,4 +27,6 @@ Cada asignatura tiene su propia carpeta que contiene las tareas, enunciados de d
 
 - `08.Text_Mining`: Aplicación de técnicas de minería de texto en una tarea de **clasificación de tweets entre aquellos que contienen contenido de odio (cyberbullying) y aquellos que no** utilizando las librerías de nltk, spacy, transformers. Dicha tarea incluye el análisis exploratiorio de textos, modelización y evaluación de los modelos de clasificación. 
 
+- `09.BigData_Pyspark`: Aplicación de la **librería de Pyspark.sql utlizando la plataforma de Databricks en Azure** para la lectura, manipulación y transformación de datos en un conjunto de datos de Kaggle sobre vídeos de Youtube de tendencia musical. 
+
 - ⏳ Más por añadir ...
