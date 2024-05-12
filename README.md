@@ -1,6 +1,6 @@
 # Repositorio de Tareas del Máster 
 
-¡Bienvenido al Repositorio de Tareas del Programa de Maestría! Este repositorio contiene tareas correspondientes a cada asignatura enseñada en nuestro programa de Maestría hasta el momento.
+¡Bienvenido al Repositorio de Tareas del Programa de Maestría! Este repositorio contiene **mis tareas** correspondientes a cada asignatura enseñada en nuestro programa de Maestría hasta el momento.
 
 ## Descripción
 
