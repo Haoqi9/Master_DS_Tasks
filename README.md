@@ -6,7 +6,7 @@
 
 - Este repositorio sirve como ubicación central para almacenar mis tareas relacionadas de los módulos enseñados en el programa de **Máster en Data Science, Big Data & Business Analytics en la UCM**.
 Cada asignatura tiene su propia carpeta que contiene las tareas, enunciados de dichas tareas y los datos.
-- **Algunas tareas realizadas en junpyter notebook (con extensión .ipynb) y en ocasiones Github no consigue renderizarlas adecuadamente**. Si es el caso, en el resumen del módulo se encuentra un `[Link Anternativa]` donde se puede visualizar dichos cuadernos.
+- **Algunas tareas realizadas en jupyter notebook (con extensión .ipynb) y en ocasiones Github no consigue renderizarlas adecuadamente**. Si es el caso, en el resumen del módulo se encuentra un `[Link Anternativa]` donde se puede visualizar dichos cuadernos.
 
 ## Resumen de las tareas de cada módulo:
 
